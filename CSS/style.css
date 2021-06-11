@@ -5,3 +5,19 @@
 #test_2 {
   color: darkgoldenrod;
 }
+#box1{
+  background-color: yellow;
+  width: 500px;
+  height: 300px;
+}
+#box2{
+  background-color: orange;
+  width: 500px;
+  height: 300px;
+}
+#box3{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+}
